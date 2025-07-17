@@ -43,6 +43,7 @@ dependencies:
   horizontal_list_calendar: ^1.0.0
   animated_custom_dropdown: ^3.1.1
   flutter_rating: ^2.0.2
+  fl_chart: ^1.0.0
 
 dev_dependencies:
   flutter_test:

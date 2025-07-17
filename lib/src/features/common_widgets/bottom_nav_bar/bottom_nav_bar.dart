@@ -20,8 +20,6 @@ class BottomNavBar extends StatelessWidget {
       floatingActionButton: GestureDetector(
         onTap: () {
           debugPrint("\n Pressed Center button \n");
-          context.push(RouteName.search);
-
         },
         child: Container(
           width: 52.w,
