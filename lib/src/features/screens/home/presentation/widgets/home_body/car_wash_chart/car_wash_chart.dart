@@ -10,7 +10,7 @@ class CarWashChart extends StatelessWidget {
     final textTheme = Theme.of(context).textTheme;
     return Container(
       height: 300,
-      padding: const EdgeInsets.all(16.0),
+      padding:  EdgeInsets.all(16.r),
       decoration: BoxDecoration(
         color: Color(0xffF9F9F9),
         borderRadius: BorderRadius.circular(4.r),
