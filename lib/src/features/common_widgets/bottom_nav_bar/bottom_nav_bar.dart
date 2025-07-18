@@ -83,7 +83,7 @@ class BottomNavBar extends StatelessWidget {
                 BlendMode.srcIn,
               ),
             ),
-            label: "History",
+            label: "Request",
           ),
           BottomNavigationBarItem(
             icon: SvgPicture.asset(
