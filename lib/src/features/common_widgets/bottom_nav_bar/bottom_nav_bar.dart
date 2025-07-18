@@ -46,7 +46,6 @@ class BottomNavBar extends StatelessWidget {
         currentIndex: navigationShell.currentIndex,
         onTap: (index) => navigationShell.goBranch(index),
         type: BottomNavigationBarType.fixed,
-        elevation: 10,
         backgroundColor: AppColor.onPrimary,
         items: [
           BottomNavigationBarItem(
